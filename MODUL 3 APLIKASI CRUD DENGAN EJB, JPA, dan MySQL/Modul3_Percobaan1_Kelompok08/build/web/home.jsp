@@ -50,19 +50,19 @@
                   <ul class="nav navbar-nav">   
             <li class="nav-item">
                 <a class="nav-link" href="./StudentServlet">            
-                    <input style="text-align:center; font-family: Google Sans; width: 100%;"  value="Home" class="btn btn-md btn-success" />
+                    <input type="submit" style="text-align:center; font-family: Google Sans; width: 150px; font-size:13px;"  value="Home" class="btn btn-md btn-success" />
                 </a>
             </li>
                   </ul>
         <ul class="nav navbar-nav navbar-right">   
             <li class="nav-item">
                 <a class="nav-link" href="./login.jsp">            
-                    <input style="text-align:center; font-family: Google Sans; width: 100%;"  value="Login" class="btn btn-md btn-success" />
+                    <input type="submit" style="text-align:center; font-family: Google Sans; width: 100px; font-size:13px;"  value="Log Out" class="btn btn-md btn-success" />
                 </a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="./profile.jsp">            
-                    <input style="text-align:center; font-family: Google Sans; width: 100%;"  value="Profile" class="btn btn-md btn-success" />
+                    <input type="submit" style="text-align:center; font-family: Google Sans; width: 100px; font-size:13px;"  value="Profile" class="btn btn-md btn-success" />
                 </a>
             </li>
         </ul>
